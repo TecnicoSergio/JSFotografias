@@ -24,6 +24,18 @@
 body {
                 background-color: #020e1b; /* Cor clara (cinza Bootstrap) */
               }
+              .botao-instagram {
+  background-color: #e1306c;
+  color: rgb(255, 255, 255);
+  padding: 10px 15px;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.botao-instagram i {
+  margin-right: 8px;
+}
 
 
 .App-header {
