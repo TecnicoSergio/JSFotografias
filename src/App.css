@@ -21,12 +21,14 @@
   border-radius: 8px;
   font-weight: bold;
 }
+
 body {
-                background-color: #020e1b; /* Cor clara (cinza Bootstrap) */
-              }
-              .botao-instagram {
+background-color: #020e1b; /* Cor clara (cinza Bootstrap) */
+ }
+
+.botao-instagram {
   background-color: #e1306c;
-  color: rgb(255, 255, 255);
+  color: rgb(26, 2, 2);
   padding: 10px 15px;
   text-decoration: none;
   border-radius: 8px;
