@@ -1,65 +1,66 @@
 .App {
-  text-align: center;
+    text-align: center;
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+    height: 40vmin;
+    pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
 }
+
 .botao-contato {
-  display: inline-block;
-  padding: 12px 24px;
-  background-color: #00ffd5;
-  color: white;
-  text-decoration: none;
-  border-radius: 8px;
-  font-weight: bold;
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #00ffd5;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
 }
 
 body {
-background-color: #020e1b; /* Cor clara (cinza Bootstrap) */
- }
+    background-color: #8721a7;
+    /* Cor clara (cinza Bootstrap) */
+}
 
 .botao-instagram {
-  background-color: #e1306c;
-  color: rgb(26, 2, 2);
-  padding: 10px 15px;
-  text-decoration: none;
-  border-radius: 8px;
-  font-weight: bold;
+    background-color: #e1306c;
+    color: rgb(26, 2, 2);
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
 }
 
 .botao-instagram i {
-  margin-right: 8px;
+    margin-right: 8px;
 }
 
-
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+    background-color: #496294;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: rgb(187, 142, 142);
 }
 
 .App-link {
-  color: #61dafb;
+    color: #61dafb;
 }
 
 @keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
 }
